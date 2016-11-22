@@ -1,0 +1,21 @@
+{
+  "name": "shopping-list",
+  "version": "0.0.0",
+  "description": "a file to help learn REST and CRUD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shopping",
+    "list",
+    "CRUD",
+    "REST"
+  ],
+  "author": "Liz Coleman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
